@@ -1,1 +1,2 @@
 this is my text file. enjoy!
+Here are some new changes to push.
